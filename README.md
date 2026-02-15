@@ -6,6 +6,7 @@ Haeri Kyoung
 Vamsi Krishna Gajulapalli  
 Prakash Tamang 
 
+### [This is the Powerpoint link for Project Presentation](https://cumber-my.sharepoint.com/:p:/g/personal/pbhandari28619_ucumberlands_edu/IQD-cR7YkP32S4K1i8qXCdlWAT1QsHsuPwWGTX3dilUbgdg?e=Ij3Jia)
 ---
 
 ## 1. Dataset Summary
@@ -74,3 +75,4 @@ The project followed a structured data mining workflow:
 Overall, combining supervised and unsupervised learning techniques provided comprehensive insights into transactional patterns and customer behavior.
 
 ---
+
